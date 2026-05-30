@@ -126,7 +126,7 @@ engage_ai/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/engage_ai.git
+git clone https://github.com/Sgsonalika/engage_ai.git
 cd engage_ai
 ```
 
@@ -255,3 +255,8 @@ to provide fast, actionable feedback for creators and marketers.
 ## License
 
 MIT License
+
+
+## Author
+Sonalika Gupta
+
